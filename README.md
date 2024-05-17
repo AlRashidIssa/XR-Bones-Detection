@@ -1,6 +1,3 @@
-Here's the fixed version of your README.md file:
-
-```markdown
 # XR-Bones-Detection-YOLOv8 
 
 ## Workflows
