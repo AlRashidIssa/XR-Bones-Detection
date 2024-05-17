@@ -5,7 +5,7 @@ import logging
 # logging string
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "XR-Bones-Detection"
+project_name = "XR_Bones_Detection"
 
 
 list_of_files = [
