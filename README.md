@@ -1,3 +1,6 @@
+Here's the fixed version of your README.md file:
+
+```markdown
 # XR-Bones-Detection-YOLOv8 
 
 ## Workflows
@@ -14,29 +17,32 @@
 10. app.py
 
 # How to run?
-### STEPS?
+### STEPS
 
 Clone the repository
 
-'''bash
-https://github.com/AlRashidIssa/XR-Bones-Detection.git
-'''
-### STEP 01- Create a venv environment after opeing the repository
-'''bash
+```bash
+git clone https://github.com/AlRashidIssa/XR-Bones-Detection.git
+```
+
+### STEP 01: Create a virtual environment after opening the repository
+
+```bash
 python -m venv xr_bones
-'''
+```
 
-'''bash
-# For linux
+```bash
+# For Linux
 source xr_bones/bin/activate
-'''
+```
 
-'''bash
-# Finally run the following command
+Finally, run the following command:
+
+```bash
 python app.py
-'''
+```
 
-Now,
-'''
-open up you local host and port
-'''
+Now, open up your local host and port.
+```
+
+```
