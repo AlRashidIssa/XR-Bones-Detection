@@ -1,6 +1,3 @@
-Your README.md file seems well-structured and informative. However, there are a few improvements and corrections that can be made for clarity and correctness:
-
-```markdown
 # XR-Bones-Detection-YOLOv8 
 ### Comprehensive model for XR bone detection by YOLOv7 with custom architecture
 
