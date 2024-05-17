@@ -1,4 +1,5 @@
 # XR-Bones-Detection-YOLOv8 
+### Comprehensive model for XR bone detection by YOLOv7 with custom architecture
 
 ## Workflows
 
